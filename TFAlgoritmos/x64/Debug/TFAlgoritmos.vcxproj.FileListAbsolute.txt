@@ -1,0 +1,21 @@
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.AssemblyReference.cache
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.MenuPrincipal.resources
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.Nivel1.resources
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.GenerateResource.cache
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.exe
+C:\Users\USER\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.Instrucciones.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.vcxproj.AssemblyReference.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.vcxproj.SuggestedBindingRedirects.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.Instrucciones.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.MenuPrincipal.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.Nivel1.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.vcxproj.GenerateResource.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos - copia\x64\Debug\TFAlgoritmos.exe
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.AssemblyReference.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.SuggestedBindingRedirects.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.Instrucciones.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.MenuPrincipal.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.Nivel1.resources
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.vcxproj.GenerateResource.cache
+D:\DATA Stephano\Programación\Algoritmos\TFAlgoritmos\x64\Debug\TFAlgoritmos.exe
